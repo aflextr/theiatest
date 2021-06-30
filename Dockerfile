@@ -1,3 +1,3 @@
 FROM theiaide/theia
 
-PORT 80
+ENV PORT=80
